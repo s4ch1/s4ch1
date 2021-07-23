@@ -1,4 +1,4 @@
--  Hi👋
+Hi👋
 -  I’m 💲🅰©♓❕ and I'm a Computer Engineering Undergraduate
 -  I’m interested in programming 👩‍💻
 -  Currently, I’m learning web and mobile app development 😇
