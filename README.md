@@ -4,7 +4,7 @@
 - 📫 How to reach me : iams4ch1@gmail.com
 
 { 
-name: "Sachini Dissanayaka", 
+<br>name: "Sachini Dissanayaka", 
 nickname: "Sachi", 
 "title: "Computer Engineering student", 
 doing: "#100DaysOfCode", 
