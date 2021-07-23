@@ -2,7 +2,7 @@
 ###  I’m 💲🅰©♓❕ and I'm a Computer Engineering Undergraduate
 ###  I’m interested in programming 👩‍💻
 ###  Currently, I’m learning web and mobile app development 😇
-<img src="/img/gmail.png" width=50% height=50%>
+<img src="/img/gmail.png" width=5% height=5%>
 <!-- ###  ![email logo](/img/gmail.png) 👉 iams4ch1@gmail.com  -->
 ###  CodePen 👉 https://codepen.io/S4ch1
 ###  LinkedIn 👉 https://www.linkedin.com/in/sachini-dissanayaka-373402197/
