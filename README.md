@@ -4,10 +4,8 @@
 ###  Currently, I’m learning web and mobile app development 😇
 ### <img src="/img/gmail.png" width=2% height=2%> iams4ch1@gmail.com 
 ### <img src="/img/linkedin-app.png" width=2% height=2%> [LinkedIn](https://www.linkedin.com/in/sachini-dissanayaka-373402197/)
-### <img src="/img/twitter-app.png" width=2% height=2%> https://twitter.com/Iam_S4ch1
-### <img src="/img/codepen.png" width=2% height=2%> https://codepen.io/S4ch1
-
-[LinkedIn](https://www.linkedin.com/in/sachini-dissanayaka-373402197/)
+### <img src="/img/twitter-app.png" width=2% height=2%> [Twitter](https://twitter.com/Iam_S4ch1)
+### <img src="/img/codepen.png" width=2% height=2%> [CodePen](https://codepen.io/S4ch1)
 
 
 
