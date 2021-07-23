@@ -1,5 +1,4 @@
-### Hi👋
-###  I’m 💲🅰©♓❕ and I'm a Computer Engineering Undergraduate
+### Hi there 👋 I’m Sachini Dissanayaka (💲🅰©♓❕) and I'm a Computer Engineering Undergraduate
 ###  I’m interested in programming 👩‍💻
 ###  Currently, I’m learning web and mobile app development 😇
 ### <img src="/img/gmail.png" width=2% height=2%> iams4ch1@gmail.com
