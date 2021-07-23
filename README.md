@@ -2,8 +2,8 @@
 -  I’m 💲🅰©♓❕ and I'm a Computer Engineering Undergraduate
 -  I’m interested in programming 👩‍💻
 -  Currently, I’m learning web and mobile app development 😇
--  How to reach me 👉📧 iams4ch1@gmail.com 
--  codepen 👉 https://codepen.io/S4ch1
+-  Email 👉 iams4ch1@gmail.com 
+-  CodePen 👉 https://codepen.io/S4ch1
 
 
 
