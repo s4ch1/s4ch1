@@ -4,7 +4,7 @@
 -  Currently, I’m learning web and mobile app development 😇
 -  Email 👉 iams4ch1@gmail.com 
 -  CodePen 👉 https://codepen.io/S4ch1
--  LinkedIN 👉 https://www.linkedin.com/in/sachini-dissanayaka-373402197/
+-  LinkedIn 👉 https://www.linkedin.com/in/sachini-dissanayaka-373402197/
 
 
 
